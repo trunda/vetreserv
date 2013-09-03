@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ruby | Reálná Ember.js aplikace]]></title>
+  <link href="http://trunda.github.io/vet-reserv/blog/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://trunda.github.io/vet-reserv/"/>
+  <updated>2013-09-03T13:43:08+02:00</updated>
+  <id>http://trunda.github.io/vet-reserv/</id>
+  <author>
+    <name><![CDATA[Jakub Truneček]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[První testovací příspěvek]]></title>
+    <link href="http://trunda.github.io/vet-reserv/blog/2013/09/03/prvni-testovaci-prispevek/"/>
+    <updated>2013-09-03T12:58:00+02:00</updated>
+    <id>http://trunda.github.io/vet-reserv/blog/2013/09/03/prvni-testovaci-prispevek</id>
+    <content type="html"><![CDATA[<p>Tohle je můj uplně první post :)</p>
+]]></content>
+  </entry>
+  
+</feed>
