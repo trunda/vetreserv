@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-03T17:15:12+02:00</updated>
+  <updated>2013-09-03T17:22:07+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -35,7 +35,7 @@
 
 <h3 id="tak-k-sakru-pro-tenhle-blog">Tak k sakru, proč tenhle blog?</h3>
 
-<p>Rád bych postupně sepisoval, jak a co jsem při vývoji rezervačního systému pro veterinu řešil – to vše dostatečně podrobně, aby vznikl tutoriál na ne zcela jednoduchou aplikaci, který dle mého názoru, nejen na českém internetu, chybí.</p>
+<p>Rád bych postupně sepisoval, jak a co jsem při vývoji rezervačního systému pro veterinu řešil – to vše dostatečně podrobně, aby vznikl tutoriál na ne zcela jednoduchou aplikaci, který dle mého názoru, nejen na českém Internetu, chybí.</p>
 
 <p>Proč to budu dělat? Našel bych hned několik důvodů. Zajímá mě, kam Internet, se všemi svými novými technologiemi, směřuje. Chci se něco nového naučit. Chci psát něco, co snad někdo někdy bude číst. Psaní blogu mě donutí přemýšlet nad tím, jak aplikace bude vypadat, nechci si udělat ostudu.</p>
 
