@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-03T17:02:58+02:00</updated>
+  <updated>2013-09-03T17:15:12+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -23,7 +23,7 @@
     
     <content type="html"><![CDATA[<p>Pracuji jako šéf vývoje v <a href="http://www.b2m.cz">B2M.CZ s.r.o.</a>, mimo jiné mám na starosti vývoj a údržbu naší produktové vlajkové lodi - <a href="http://www.epoptavka.cz">ePoptávka.cz</a>. <abbr title="Nevím, kdo všechno to jednou bude číst.">Miluji svoji práci</abbr>! Přesto jsem však uvězněn v zaběhlých kolejích, které jsem ve firmě sám položil. Čas od času jsem svou zvídavou povahou nucen rozhlížet se kolem sebe a nezakrnět tak ve své pohodlné ulitě <abbr title="Pretty hot programmer">PHP</abbr> vývojáře.</p>
 
-<p>Zajímá mě spousta věcí, ale co mě doslova fascinuje, je strmý vzestup <abbr title="Single page application">SPA</abbr> a s ním se vezoucí boom <a href="http://stackoverflow.com/questions/14336450/javascript-spa-frameworks-single-page-application">JavaScriptových <abbr title="Single page application">SPA</abbr> frameworků</a>. Všechny budoucí blogy se však budou týkat pouze jednoho z nich, mým vyvoleným je <a href="http://emberjs.com/">Ember.js</a>. Proč jsem si vybral právě Ember? Prostě se mi tak nějak líbí, zkouknul jsem nějaká ta videa (<a href="http://youtu.be/1QHrlFlaXdI">tohle</a>, <a href="http://www.youtube.com/watch?v=_6yMxU-_ARs">tohle</a> nebo třeba <a href="http://www.youtube.com/watch?v=u6RFyVN9sNg">tohle</a>) a zdravý entuziasmus se pro tento busswordy překypující nástroj dostavil téměř okamžitě. Tím samozřejmě neodsuzuji ty ostatní, ale já si vybral zrovna tenhle.</p>
+<p>Zajímá mě spousta věcí, ale co mě doslova fascinuje, je strmý vzestup <abbr title="Single page application">SPA</abbr> a s ním se vezoucí boom <a href="http://stackoverflow.com/questions/14336450/javascript-spa-frameworks-single-page-application">JavaScriptových <abbr title="Single page application">SPA</abbr> frameworků</a>. Všechny budoucí zápisky na tomto blogu se však budou týkat pouze jednoho z nich, mým vyvoleným je <a href="http://emberjs.com/">Ember.js</a>. Proč jsem si vybral právě Ember? Prostě se mi tak nějak líbí, zkouknul jsem nějaká ta videa (<a href="http://youtu.be/1QHrlFlaXdI">tohle</a>, <a href="http://www.youtube.com/watch?v=_6yMxU-_ARs">tohle</a> nebo třeba <a href="http://www.youtube.com/watch?v=u6RFyVN9sNg">tohle</a>) a zdravý entuziasmus se pro tento busswordy překypující nástroj dostavil téměř okamžitě. Tím samozřejmě neodsuzuji ty ostatní, ale já si vybral zrovna tenhle.</p>
 
 <blockquote>
   <p>V tu chvíli mě to napadlo, proč všechna ta martyria, spojená s vývojem netriviální aplikace, nesepsat a nedat tak dalším nadšencům nějaký (snad dobrý) zdroj cenných informací.</p>
