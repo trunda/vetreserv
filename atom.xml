@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-03T14:11:43+02:00</updated>
+  <updated>2013-09-03T14:17:28+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -12,50 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    
-    <title type="html"><![CDATA[What the hell!]]></title>
-    <link href="http://trunda.github.io/vetreserv/blog/2013/09/03/what-the-hell/"/>
-    
-    <updated>2013-09-03T14:06:00+02:00</updated>
-    <id>http://trunda.github.io/vetreserv/blog/2013/09/03/what-the-hell</id>
-    
-    <content type="html"><![CDATA[
-]]></content>
-    
-  </entry>
-  
-  <entry>
-    
-    <title type="html"><![CDATA[Common baby]]></title>
-    <link href="http://trunda.github.io/vetreserv/blog/2013/09/03/common-baby/"/>
-    
-    <updated>2013-09-03T13:56:00+02:00</updated>
-    <id>http://trunda.github.io/vetreserv/blog/2013/09/03/common-baby</id>
-    
-    <content type="html"><![CDATA[<p>Jedeme bejby!</p>
-
-<pre><code>$this-&gt;is-&gt;sourceCode();
-$this-&gt;is-&gt;too;
-</code></pre>
-
-<p>Tohle je můj uplně první post :)</p>
-]]></content>
-    
-  </entry>
-  
-  <entry>
-    
-    <title type="html"><![CDATA[První testovací příspěvek]]></title>
-    <link href="http://trunda.github.io/vetreserv/blog/2013/09/03/prvni-testovaci-prispevek/"/>
-    
-    <updated>2013-09-03T12:58:00+02:00</updated>
-    <id>http://trunda.github.io/vetreserv/blog/2013/09/03/prvni-testovaci-prispevek</id>
-    
-    <content type="html"><![CDATA[<p>Tohle je můj uplně první post :)</p>
-]]></content>
-    
-  </entry>
   
 </feed>
