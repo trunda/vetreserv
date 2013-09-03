@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Reálná Ember.js aplikace</title>
+  <title>Proč tenhle blog? - Reálná Ember.js aplikace</title>
   <meta name="author" content="Jakub Truneček">
 
   
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://trunda.github.io/vetreserv">
+  <link rel="canonical" href="http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog">
   <link href="/vetreserv/favicon.png" rel="icon">
   <link href="/vetreserv/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/vetreserv/atom.xml" rel="alternate" title="Reálná Ember.js aplikace" type="application/atom+xml">
@@ -61,18 +61,15 @@
 </nav>
   <div id="main">
     <div id="content">
-      <div class="blog-index">
+      <div>
+<article class="hentry" role="article">
   
-  
-  
-    <article>
-      
   <header>
   
     
-      <h1 class="entry-title"><a href="/vetreserv/blog/2013/09/03/proc-tenhle-blog/">Proč tenhle blog?</a></h1>
-      
-      
+      <h1 class="entry-title">Proč tenhle blog?</h1>
+    
+  
     
       <p class="meta">
         
@@ -94,7 +91,7 @@
   </header>
 
 
-  <div class="entry-content"><p>Pracuji jako šéf vývoje v <a href="http://www.b2m.cz">B2M.CZ s.r.o.</a>, mimo jiné mám na starosti vývoj a údržbu naší produktové vlajkové lodi - <a href="http://www.epoptavka.cz">ePoptávka.cz</a>. <abbr title="Nevím, kdo všechno to jednou bude číst.">Miluji svoji práci</abbr>! Přesto jsem však uvězněn v zaběhlých kolejích, které jsem ve firmě sám položil. Čas od času jsem svou zvídavou povahou nucen rozhlížet se kolem sebe a nezakrnět tak ve své pohodlné ulitě <abbr title="Pretty hot programmer">PHP</abbr> vývojáře.</p>
+<div class="entry-content"><p>Pracuji jako šéf vývoje v <a href="http://www.b2m.cz">B2M.CZ s.r.o.</a>, mimo jiné mám na starosti vývoj a údržbu naší produktové vlajkové lodi - <a href="http://www.epoptavka.cz">ePoptávka.cz</a>. <abbr title="Nevím, kdo všechno to jednou bude číst.">Miluji svoji práci</abbr>! Přesto jsem však uvězněn v zaběhlých kolejích, které jsem ve firmě sám položil. Čas od času jsem svou zvídavou povahou nucen rozhlížet se kolem sebe a nezakrnět tak ve své pohodlné ulitě <abbr title="Pretty hot programmer">PHP</abbr> vývojáře.</p>
 
 <p>Zajímá mě spousta věcí, ale co mě doslova fascinuje, je strmý vzestup <abbr title="Single page application">SPA</abbr> a s ním se vezoucí boom <a href="http://stackoverflow.com/questions/14336450/javascript-spa-frameworks-single-page-application">JavaScriptových <abbr title="Single page application">SPA</abbr> frameworků</a>. Všechny budoucí blogy se však budou týkat pouze jednoho z nich, mým vyvoleným je <a href="http://emberjs.com/">Ember.js</a>. Proč jsem si vybral právě Ember? Prostě se mi tak nějak líbí, zkouknul jsem nějaká ta videa (<a href="http://youtu.be/1QHrlFlaXdI">tohle</a>, <a href="http://www.youtube.com/watch?v=_6yMxU-_ARs">tohle</a> nebo třeba <a href="http://www.youtube.com/watch?v=u6RFyVN9sNg">tohle</a>) a zdravý entuziasmus se pro tento busswordy překypující nástroj dostavil téměř okamžitě. Tím samozřejmě neodsuzuji ty ostatní, ale já si vybral zrovna tenhle.</p>
 
@@ -102,23 +99,75 @@
   <p>V tu chvíli mě to napadlo, proč všechna ta martyria, spojená s vývojem netriviální aplikace, nesepsat a nedat tak dalším nadšencům nějaký (snad dobrý) zdroj cenných informací.</p>
 </blockquote>
 
+<!-- more -->
+
+<p>Teď už konečně přistoupím k jádru pudla, jak se tak říká. Chtěl jsem napsat nějakou tu <abbr title="Single page application">SPA</abbr> aplikaci, která by mi udělala radost a nebyla <abbr title="Pro tento blog a pro tu radost.">jen na dvě věci</abbr>. V tu chvíli mě oslovila <abbr title="Problém?">manželka mojí sestry</abbr>, veterinářka, s malou prosbou: “Mohl bys mi prosím udělat nějakej web, kde by se pacienti mohli rezervovat do mojí ordinace?”. Bylo to jak na zavolanou, nadšení by bylo, technologie by byla, čas se také najde – s chutí do toho. Co člověk udělá jako první? Začne hledat nějakou tu dokumentaci a příklady (mně se nejlépe vstřebávají informace z psaných tutoriálů), ale ouha, jediné co najdete, mimo <a href="http://emberjs.com/guides/">slušné oficiální dokumentace</a>, jsou ukázky triviálních aplikací. V tu chvíli mě to napadlo, proč všechna ta martyria, spojená s vývojem netriviální aplikace, nesepsat a nedat tak dalším nadšencům nějaký (snad dobrý) zdroj cenných informací.</p>
+
+<h3 id="tak-k-sakru-pro-tenhle-blog">Tak k sakru, proč tenhle blog?</h3>
+
+<p>Rád bych postupně sepisoval, jak a co jsem při vývoji rezervačního systému pro veterinu řešil – to vše dostatečně podrobně, aby vznikl tutoriál na ne zcela jednoduchou aplikaci, který dle mého názoru, nejen na českém internetu, chybí.</p>
+
+<p>Proč to budu dělat? Našel bych hned několik důvodů. Zajímá mě, kam Internet, se všemi svými novými technologiemi, směřuje. Chci se něco nového naučit. Chci psát něco, co snad někdo někdy bude číst. Psaní blogu mě donutí přemýšlet nad tím, jak aplikace bude vypadat, nechci si udělat ostudu.</p>
+
+<h3 id="co-dl">Co dál?</h3>
+
+<p>V příštím zápisku se pustím do návrhu aplikace, tedy do seznamu funkcí, které by aplikace měla umět. Připojím i několik wireframů a na závěr si připravím prostředí pro vývoj.
+<!-- ABBR --></p>
+
 </div>
+
+
+  <footer>
+    <p class="meta">
+      
   
-  
-    <footer>
-      <a rel="full-article" href="/vetreserv/blog/2013/09/03/proc-tenhle-blog/">Číst dál &rarr;</a>
-    </footer>
+
+<span class="byline author vcard">Autor: <span class="fn">Jakub Truneček</span></span>
+
+      
+
+
+
+
+
+
+
+
   
 
 
-    </article>
+<time datetime="2013-09-03T14:52:00+02:00" pubdate data-updated="true">03. 09. 2013</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
   
-  <div class="pagination">
-    
-    <a href="/vetreserv/blog/archives">Archív blogu</a>
-    
-  </div>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog/" data-via="jtrunecek" data-counturl="http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
 </div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Komentáře</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
 <aside class="sidebar">
   
     <section>
@@ -139,6 +188,7 @@
   
 </aside>
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -153,7 +203,10 @@
       var disqus_shortname = 'vetreserv';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog/';
+        var disqus_url = 'http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

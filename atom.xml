@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-03T14:47:29+02:00</updated>
+  <updated>2013-09-03T17:02:58+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -12,5 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Proč tenhle blog?]]></title>
+    <link href="http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog/"/>
+    
+    <updated>2013-09-03T14:52:00+02:00</updated>
+    <id>http://trunda.github.io/vetreserv/blog/2013/09/03/proc-tenhle-blog</id>
+    
+    <content type="html"><![CDATA[<p>Pracuji jako šéf vývoje v <a href="http://www.b2m.cz">B2M.CZ s.r.o.</a>, mimo jiné mám na starosti vývoj a údržbu naší produktové vlajkové lodi - <a href="http://www.epoptavka.cz">ePoptávka.cz</a>. <abbr title="Nevím, kdo všechno to jednou bude číst.">Miluji svoji práci</abbr>! Přesto jsem však uvězněn v zaběhlých kolejích, které jsem ve firmě sám položil. Čas od času jsem svou zvídavou povahou nucen rozhlížet se kolem sebe a nezakrnět tak ve své pohodlné ulitě <abbr title="Pretty hot programmer">PHP</abbr> vývojáře.</p>
+
+<p>Zajímá mě spousta věcí, ale co mě doslova fascinuje, je strmý vzestup <abbr title="Single page application">SPA</abbr> a s ním se vezoucí boom <a href="http://stackoverflow.com/questions/14336450/javascript-spa-frameworks-single-page-application">JavaScriptových <abbr title="Single page application">SPA</abbr> frameworků</a>. Všechny budoucí blogy se však budou týkat pouze jednoho z nich, mým vyvoleným je <a href="http://emberjs.com/">Ember.js</a>. Proč jsem si vybral právě Ember? Prostě se mi tak nějak líbí, zkouknul jsem nějaká ta videa (<a href="http://youtu.be/1QHrlFlaXdI">tohle</a>, <a href="http://www.youtube.com/watch?v=_6yMxU-_ARs">tohle</a> nebo třeba <a href="http://www.youtube.com/watch?v=u6RFyVN9sNg">tohle</a>) a zdravý entuziasmus se pro tento busswordy překypující nástroj dostavil téměř okamžitě. Tím samozřejmě neodsuzuji ty ostatní, ale já si vybral zrovna tenhle.</p>
+
+<blockquote>
+  <p>V tu chvíli mě to napadlo, proč všechna ta martyria, spojená s vývojem netriviální aplikace, nesepsat a nedat tak dalším nadšencům nějaký (snad dobrý) zdroj cenných informací.</p>
+</blockquote>
+
+<!-- more -->
+
+<p>Teď už konečně přistoupím k jádru pudla, jak se tak říká. Chtěl jsem napsat nějakou tu <abbr title="Single page application">SPA</abbr> aplikaci, která by mi udělala radost a nebyla <abbr title="Pro tento blog a pro tu radost.">jen na dvě věci</abbr>. V tu chvíli mě oslovila <abbr title="Problém?">manželka mojí sestry</abbr>, veterinářka, s malou prosbou: “Mohl bys mi prosím udělat nějakej web, kde by se pacienti mohli rezervovat do mojí ordinace?”. Bylo to jak na zavolanou, nadšení by bylo, technologie by byla, čas se také najde – s chutí do toho. Co člověk udělá jako první? Začne hledat nějakou tu dokumentaci a příklady (mně se nejlépe vstřebávají informace z psaných tutoriálů), ale ouha, jediné co najdete, mimo <a href="http://emberjs.com/guides/">slušné oficiální dokumentace</a>, jsou ukázky triviálních aplikací. V tu chvíli mě to napadlo, proč všechna ta martyria, spojená s vývojem netriviální aplikace, nesepsat a nedat tak dalším nadšencům nějaký (snad dobrý) zdroj cenných informací.</p>
+
+<h3 id="tak-k-sakru-pro-tenhle-blog">Tak k sakru, proč tenhle blog?</h3>
+
+<p>Rád bych postupně sepisoval, jak a co jsem při vývoji rezervačního systému pro veterinu řešil – to vše dostatečně podrobně, aby vznikl tutoriál na ne zcela jednoduchou aplikaci, který dle mého názoru, nejen na českém internetu, chybí.</p>
+
+<p>Proč to budu dělat? Našel bych hned několik důvodů. Zajímá mě, kam Internet, se všemi svými novými technologiemi, směřuje. Chci se něco nového naučit. Chci psát něco, co snad někdo někdy bude číst. Psaní blogu mě donutí přemýšlet nad tím, jak aplikace bude vypadat, nechci si udělat ostudu.</p>
+
+<h3 id="co-dl">Co dál?</h3>
+
+<p>V příštím zápisku se pustím do návrhu aplikace, tedy do seznamu funkcí, které by aplikace měla umět. Připojím i několik wireframů a na závěr si připravím prostředí pro vývoj.
+<!-- ABBR --></p>
+
+]]></content>
+    
+  </entry>
   
 </feed>
