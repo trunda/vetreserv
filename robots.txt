@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://trunda.github.io/vet-reserv/sitemap.xml 
+Sitemap: http://trunda.github.io/vetreserv/sitemap.xml 
