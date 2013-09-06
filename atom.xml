@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-06T17:30:22+02:00</updated>
+  <updated>2013-09-06T17:38:12+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -402,7 +402,7 @@
 <h3 id="odkazy">Odkazy</h3>
 
 <ul>
-  <li><a href="https://github.com/trunda/vetreserv/tree/navrh-veledila">zdrojové kódy</a></li>
+  <li><a href="https://github.com/trunda/vetreserv/tree/01-navrh-veledila">zdrojové kódy</a></li>
 </ul>
 
 ]]></content>
