@@ -1,28 +1,7 @@
-== README
+== [Návrh veledíla a příprava podhoubí](http://trunda.github.io/vetreserv/blog/2013/09/06/navrh-veledila-a-priprava-podhoubi/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Minule jsem sliboval, nyní je čas plnit. Dnes si připravím výzvu, v podobě seznamu fuknčností, kterou se budu v následujících dnech snažit realizovat. Doufejme úspěšně. Na konec, abych pořád jen nefilosofoval, si připravím vývojové prostředí -- Ember.js základ servírovaný RoR aplikací.
 
-Things you may want to cover:
+Je pravdou, že sice mám rád vše živé, o to víc, když [je to roztomilé](https://sphotos-b.xx.fbcdn.net/hphotos-ash3/37264_1397809076486_7835927_n.jpg). Nicméně moje láska ke zvířatům se omezuje pouze na mazlení, co se týká zdravovědy, nevím o tom zhola nic. Přesto si říkám, že rezervační systém pro veterinární kliniku se přeci nebude moc lišit od ostatních, podobně založených, aplikací.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[Číst dál](http://trunda.github.io/vetreserv/blog/2013/09/06/navrh-veledila-a-priprava-podhoubi/)
