@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-06T17:59:11+02:00</updated>
+  <updated>2013-09-06T18:09:11+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -21,7 +21,7 @@
     <updated>2013-09-06T16:24:00+02:00</updated>
     <id>http://trunda.github.io/vetreserv/blog/2013/09/06/navrh-veledila-a-priprava-podhoubi</id>
     
-    <content type="html"><![CDATA[<p>Minule jsem sliboval, nyní je čas plnit. Dnes si připravím výzvu, v podobě seznamu fuknčností, kterou se budu v následujících dnech snažit realizovat. Doufejme úspěšně. Na konec, abych pořád jen <abbr title="Opravdu divné slovo">nefilosofoval</abbr>, si připravím vývojové prostředí – Ember.js základ servírovaný <abbr title="Ruby on Rails">RoR</abbr> aplikací.</p>
+    <content type="html"><![CDATA[<p>Minule jsem sliboval, nyní je čas plnit. Dnes si připravím výzvu v podobě seznamu fuknčností, kterou se budu v následujících dnech snažit realizovat. Doufejme úspěšně. Na konec, abych pořád jen <abbr title="Opravdu divné slovo">nefilosofoval</abbr>, si připravím vývojové prostředí – Ember.js základ servírovaný <abbr title="Ruby on Rails">RoR</abbr> aplikací.</p>
 
 <p>Je pravdou, že sice mám rád vše živé, o to víc, když <a href="https://sphotos-b.xx.fbcdn.net/hphotos-ash3/37264_1397809076486_7835927_n.jpg">je to roztomilé</a>. Nicméně moje láska ke zvířatům se omezuje pouze na mazlení, co se týká zdravovědy, nevím o tom zhola nic. Přesto si říkám, že rezervační systém pro veterinární kliniku se přeci nebude moc lišit od ostatních, podobně založených, aplikací.</p>
 
