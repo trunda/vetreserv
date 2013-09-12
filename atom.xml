@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-12T12:56:19+02:00</updated>
+  <updated>2013-09-12T15:20:53+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -942,8 +942,6 @@
 </span><span class="line">DEBUG: -------------------------------
 </span><span class="line">DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
 </span></code></pre></td></tr></table></div></figure></notextile></div>
-
-<p><img src="http://trunda.github.io/vetreserv/images/navrh-veledila/01-button.jpg" title="Okno prohlížeče" /></p>
 
 <p>Všechno jede, paráda.</p>
 
