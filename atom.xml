@@ -4,7 +4,7 @@
   <title><![CDATA[Reálná Ember.js aplikace]]></title>
   <link href="http://trunda.github.io/vetreserv/atom.xml" rel="self"/>
   <link href="http://trunda.github.io/vetreserv/"/>
-  <updated>2013-09-12T12:54:24+02:00</updated>
+  <updated>2013-09-12T12:56:19+02:00</updated>
   <id>http://trunda.github.io/vetreserv/</id>
   <author>
     <name><![CDATA[Jakub Truneček]]></name>
@@ -16,10 +16,10 @@
   <entry>
     
     <title type="html"><![CDATA[Grafika zraje, napíšu si komponentu]]></title>
-    <link href="http://trunda.github.io/vetreserv/blog/2013/09/12/rusim-co-jsem-slibil/"/>
+    <link href="http://trunda.github.io/vetreserv/blog/2013/09/12/grafika-zraje-napisu-si-komponentu/"/>
     
     <updated>2013-09-12T00:00:00+02:00</updated>
-    <id>http://trunda.github.io/vetreserv/blog/2013/09/12/rusim-co-jsem-slibil</id>
+    <id>http://trunda.github.io/vetreserv/blog/2013/09/12/grafika-zraje-napisu-si-komponentu</id>
     
     <content type="html"><![CDATA[<p>Sliboval jsem, sliboval. Co jsem to sliboval? To že poodhalím grafickou podobu mojí skvělé aplikace. Dokonce jsem i první grafiku nakreslil, prozatím s ní ale nejsem úplně spokojen, je tomu prostě potřeba dát ještě trochu času. A proto přicházím s kompenzací.</p>
 
