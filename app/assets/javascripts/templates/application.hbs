@@ -1,10 +1,8 @@
-<header>
-    <h1>Hello World</h1>
-</header>
-
-<div>
-    {{input type="text" value=name placeholder="Vaše jméno pane?"}}
-    <div>
-        <p>Moje jméno je <strong>{{name}}</strong> a chci napsat reálnou Ember.js aplikaci!</p>
-    </div>
+<div class="container">
+    <h1>Ember.js</h1>
+    <hr/>
+    {{view Vetreserv.ButtonView text="Stiskni mě!"
+        type="danger" size="lg" icon="star" action="handleClick"
+        isLoadingBinding=isLoading
+        loadingText="Krutopřísný výpočet ...."}}
 </div>

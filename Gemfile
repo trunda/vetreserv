@@ -36,6 +36,11 @@ gem 'ember-rails'
 gem 'ember-source', '1.0.0'
 gem 'handlebars-source', '~> 1.0.12'
 
+gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',
+    :github => 'anjlab/bootstrap-rails',
+    :branch => '3.0.0'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

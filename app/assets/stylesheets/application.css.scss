@@ -11,3 +11,9 @@
  *= require_self
  *= require_tree .
  */
+
+@import "twitter/bootstrap";
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
